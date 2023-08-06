@@ -5,4 +5,4 @@ With this project, you can analyze real-time pose estimation through your webcam
 PoseNet is a machine learning model that can detect human poses 
 ## Feature
 This is a good example of using Javascript in Machine Learning.
-I have Used basic leve p5.js and ml5.js library
+I have Used basic level p5.js and ml5.js library
